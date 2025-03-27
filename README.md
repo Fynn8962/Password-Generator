@@ -15,7 +15,6 @@ Ein Passwort-Generator, der mit Python eine zufällige Zeichenfolge erstellt. Di
 - Sonderzeichen (y / n)
   
 
-
 **Praktisches Beispiel:**            
 <img src="https://github.com/Fynn8962/Password-Generator/blob/main/pw-generator.gif" alt="GIF zu Password generator" width="500">
 
