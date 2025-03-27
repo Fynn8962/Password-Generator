@@ -13,7 +13,8 @@ Ein Passwort-Generator, der mit Python eine zufällige Zeichenfolge erstellt. Di
 - Kleinbuchstaben (y / n)
 - Zahlen (y / n)
 - Sonderzeichen (y / n)
-  
+
+  &nbsp;
 
 **Praktisches Beispiel:**            
 <img src="https://github.com/Fynn8962/Password-Generator/blob/main/pw-generator.gif" alt="GIF zu Password generator" width="500">
