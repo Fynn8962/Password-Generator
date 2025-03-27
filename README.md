@@ -1,5 +1,5 @@
 # Password-Generator
-Ein Password-Generator welcher mithilfe von Pyhton eine zufällige abfolge von Zeichen ausgibt. Die Zeichen die im Passwort enthalten sind können vom Benutzer definiert werden. Die Benutzeroberfläche ist mittels HTML und CSS erstellt.                         
+Ein Passwort-Generator, der mit Python eine zufällige Zeichenfolge erstellt. Die Zeichen, die im Passwort enthalten sind, können vom Benutzer individuell festgelegt werden. Die Benutzeroberfläche ist in HTML und CSS umgesetzt. Der Benutzer hat zudem die Möglichkeit, die Länge des Passworts auszuwählen (bis zu 64 Zeichen) und das generierte Passwort direkt in die Zwischenablage zu kopieren. Beim Design habe ich bewusst Farben gewählt, die nicht auf vielen Websites  zu finden sind, um etwas Neues und Auffälliges auszuprobieren.                        
 [Projektordner](https://github.com/Fynn8962/Password-Generator/tree/main/PasswordGenerator)
 
 **Praktisches Beispiel:**            
