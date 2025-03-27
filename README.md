@@ -6,5 +6,5 @@ Password Generator with JavaScript
 
 
 
-[Projektordner]("https://github.com/Fynn8962/Password-Generator/tree/main/PasswordGenerator")
+[Projektordner](https://github.com/Fynn8962/Password-Generator/tree/main/PasswordGenerator)
 
