@@ -137,17 +137,6 @@ function generieren() {
     erlaupteZeichen = erlaupteZeichen.concat(sonderzeichen);
   }
 
-  /*
-  --Kryptographie-basierte Zufallszahlen
-  function getRandomInt(max) {
-    const array = new Uint32Array(1);
-    crypto.getRandomValues(array);
-    return array[0] % max;
-  }
-  --Einfügen anstelle von Math.floor
-  const zufallZahl = getRandomInt(zeichenArray.length);
-  */
-
   for (let i = 0; i < anzahlZeichnen; i++) {
     const zufallZahl = Math.floor(Math.random() * erlaupteZeichen.length);
     ausgabe += erlaupteZeichen[zufallZahl];
