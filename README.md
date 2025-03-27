@@ -17,10 +17,10 @@ Ein Passwort-Generator, der mit Python eine zufällige Zeichenfolge erstellt. Di
   &nbsp;
 
 **Praktisches Beispiel:**            
-<img src="https://github.com/Fynn8962/Password-Generator/blob/main/pw-generator.gif" alt="GIF zu Password generator" width="500">
+<img src="https://github.com/Fynn8962/Password-Generator/blob/main/pw-generator.gif" alt="GIF zu Password generator" width="1000">
 
 **Benutzeroberfläche:**                     
-<img src="https://github.com/Fynn8962/Password-Generator/blob/main/IfWq3hBZNq.png" alt="Benutzeroberfläche" width="500">       
+<img src="https://github.com/Fynn8962/Password-Generator/blob/main/IfWq3hBZNq.png" alt="Benutzeroberfläche" width="1000">       
 
 
 
